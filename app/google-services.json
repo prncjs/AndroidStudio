@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "587110031002",
+    "project_id": "login-register-271ca",
+    "storage_bucket": "login-register-271ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587110031002:android:a931a498283730a2090923",
+        "android_client_info": {
+          "package_name": "com.example.pombud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587110031002-np1dtk1bk35alnsc7trtvf11ve0icrrh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9baUz8pkXN4rIoMkGFbPUZhZz4eWMQOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587110031002-np1dtk1bk35alnsc7trtvf11ve0icrrh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
